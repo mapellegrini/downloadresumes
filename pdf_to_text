@@ -1,0 +1,2 @@
+mkdir text 
+for f in ls ./*.pdf; do echo $f; pdftotext "$f" "./text/$f.txt"; done

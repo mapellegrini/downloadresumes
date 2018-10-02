@@ -1,1 +1,1 @@
-# downloadresumes
+A simple set of scripts to download resumes and convert them to text files
